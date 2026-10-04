@@ -1,0 +1,16 @@
+{
+  "name": "plantbook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plantbook — manual abierto de huertas, jardines, frutales y árboles.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/validate.mjs && node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "git+https://github.com/luquini0/HuertaUrbana.git" },
+  "license": "MIT"
+}

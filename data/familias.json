@@ -1,0 +1,466 @@
+[
+  {
+    "id": "solanaceas",
+    "nombre": "Solanáceas",
+    "cientifico": "Solanaceae",
+    "emoji": "🍅",
+    "descripcion": "La familia del tomate, el pimiento, la berenjena y la papa. Son plantas de estación cálida, golosas de sol y de nutrientes, que dan frutos (o tubérculos) y comparten casi todas sus plagas y enfermedades.",
+    "rasgos": [
+      "Flores en forma de estrella de cinco pétalos soldados, con anteras amarillas juntas en el centro",
+      "Hojas alternas, muchas veces con olor fuerte al frotarlas",
+      "Frutos tipo baya (tomate, ají, berenjena) con muchas semillas chatas",
+      "Tallos y hojas con alcaloides: la parte verde de la papa y del tomate es tóxica",
+      "Sensibles a las heladas, se siembran en primavera"
+    ],
+    "rotacion": "frutos",
+    "cuidado": "Comparten tizón (Phytophthora), mosca blanca, pulgones, vaquita de la papa y nematodos, por eso no conviene repetir solanáceas en el mismo cantero durante 3 años. Piden mucho potasio y calcio para fructificar bien; el exceso de nitrógeno da pura hoja. Después de ellas conviene sembrar leguminosas u hojas, nunca otra solanácea."
+  },
+  {
+    "id": "cucurbitaceas",
+    "nombre": "Cucurbitáceas",
+    "cientifico": "Cucurbitaceae",
+    "emoji": "🎃",
+    "descripcion": "Zapallos, zapallitos, pepinos, melones y sandías. Son trepadoras o rastreras, de crecimiento rápido, con flores masculinas y femeninas separadas en la misma planta. Necesitan calor, espacio y mucha agua.",
+    "rasgos": [
+      "Tallos rastreros o trepadores con zarcillos",
+      "Hojas grandes, ásperas y lobuladas",
+      "Flores amarillas grandes, masculinas y femeninas separadas",
+      "Fruto tipo pepónide: cáscara dura o firme y pulpa con muchas semillas",
+      "Muy sensibles al frío: no soportan heladas ni suelos fríos"
+    ],
+    "rotacion": "frutos",
+    "cuidado": "El oídio (polvillo blanco en las hojas) es el problema típico de fin de verano; evitá mojar las hojas y dejá espacio para que circule el aire. Los pulgones y la vaquita atacan plantas jóvenes. Son golosas de materia orgánica y agua regular. No repitas cucurbitáceas en el mismo lugar antes de 3 años."
+  },
+  {
+    "id": "brasicaceas",
+    "nombre": "Brasicáceas (Crucíferas)",
+    "cientifico": "Brassicaceae",
+    "emoji": "🥦",
+    "descripcion": "La familia de las coles: repollo, brócoli, coliflor, kale, rúcula, rabanito y nabo. Prefieren el frío y el sol moderado, y sus flores de cuatro pétalos en cruz las delatan. Son grandes consumidoras de nitrógeno.",
+    "rasgos": [
+      "Flores con cuatro pétalos en forma de cruz",
+      "Fruto en vaina alargada (silicua) o redondeada (silícula)",
+      "Hojas con sabor picante o a mostaza, olor a azufre al cocinarlas",
+      "Casi todas toleran el frío y mejoran con él",
+      "Muchas se cosechan como hoja, flor inmadura o raíz"
+    ],
+    "rotacion": "hojas",
+    "cuidado": "La oruga de la col (mariposa blanca), los pulgones, las pulguillas y la hernia de las crucíferas (Plasmodiophora) son las plagas clásicas; cubrilas con malla antiinsectos desde el trasplante. Piden mucho nitrógeno y suelo con pH cercano a neutro. Esperá 3 a 4 años antes de repetir brasicáceas en el mismo cantero."
+  },
+  {
+    "id": "asteraceas",
+    "nombre": "Asteráceas (Compuestas)",
+    "cientifico": "Asteraceae",
+    "emoji": "🌻",
+    "descripcion": "La familia de la lechuga, el girasol, la caléndula, la manzanilla y el alcaucil. Lo que parece una flor es en realidad un montón de florcitas chicas juntas, una estrategia que atrae a muchísimos polinizadores y benéficos.",
+    "rasgos": [
+      "Cabezuela: una 'flor' formada por decenas de flores pequeñas (centro y lengüetas)",
+      "Fruto seco con una semilla (aquenio), a veces con vilano como el diente de león",
+      "Muchas con látex blanco (lechuga) o aroma resinoso (manzanilla, estragón)",
+      "Gran variedad: hojas, flores, raíces y hasta alcauciles comestibles",
+      "Las de hoja espigan con calor y días largos"
+    ],
+    "rotacion": "hojas",
+    "cuidado": "La lechuga sufre babosas, pulgones y, con calor, espigado prematuro; sembrala escalonada y a media sombra en verano. Las ornamentales (caléndula, cosmos, girasol, zinnia) atraen benéficos y conviene dejarlas florecer en la huerta. Evitá repetir lechuga y otras de hoja en el mismo lugar muchos ciclos seguidos por enfermedades del suelo como el mildiu."
+  },
+  {
+    "id": "apiaceas",
+    "nombre": "Apiáceas (Umbelíferas)",
+    "cientifico": "Apiaceae",
+    "emoji": "🥕",
+    "descripcion": "Zanahoria, apio, perejil, cilantro, hinojo y eneldo. Se reconocen por sus flores en paraguas y su aroma fuerte. Casi todas son de clima templado a fresco y de germinación lenta.",
+    "rasgos": [
+      "Flores pequeñas agrupadas en umbela, como un paraguas abierto",
+      "Hojas muy divididas, finas y plumosas",
+      "Tallos huecos y acanalados",
+      "Aroma intenso al frotarlas (perejil, hinojo, eneldo, zanahoria)",
+      "Muchas forman raíz pivotante o bulbo comestible"
+    ],
+    "rotacion": "raices",
+    "cuidado": "Germinan lento (2 a 3 semanas) y no toleran trasplante si tienen raíz pivotante: sembrá directo. La mosca de la zanahoria y los nematodos atacan las raíces; el suelo suelto, sin piedras ni estiércol fresco, evita raíces bifurcadas. Sus flores atraen benéficos (sírfidos, avispitas), dejá algunas florecer. El hinojo inhibe a otras plantas, plantalo aparte."
+  },
+  {
+    "id": "aliaceas",
+    "nombre": "Aliáceas",
+    "cientifico": "Amaryllidaceae (tribu Allieae)",
+    "emoji": "🧄",
+    "descripcion": "Cebolla, ajo, puerro, cebolla de verdeo y cebollín. Forman bulbos o falsos tallos y tienen el olor azufrado que ahuyenta a muchas plagas. Son de clima fresco y de crecimiento lento.",
+    "rasgos": [
+      "Olor a cebolla o ajo al cortar cualquier parte",
+      "Hojas largas, cilíndricas o chatas, sin nervadura ramificada",
+      "Bulbo o base engrosada (cebolla, ajo) o falso tallo (puerro)",
+      "Flores en umbela redonda sobre un escapo sin hojas",
+      "Raíces superficiales y delgadas"
+    ],
+    "rotacion": "raices",
+    "cuidado": "Sufren podredumbre blanca del suelo (Sclerotium), trips y mosca de la cebolla; la rotación de 4 años es la mejor defensa. Tienen raíces cortas, así que necesitan riego frecuente y poca competencia de yuyos. Se llevan mal con las leguminosas (arveja, poroto, haba) pero protegen zanahorias, frutillas y rosas."
+  },
+  {
+    "id": "leguminosas",
+    "nombre": "Leguminosas (Fabáceas)",
+    "cientifico": "Fabaceae",
+    "emoji": "🫘",
+    "descripcion": "Poroto, arveja, haba, y también árboles como el algarrobo y el ceibo. Viven en alianza con bacterias que fijan el nitrógeno del aire en nódulos de sus raíces, y por eso mejoran el suelo para el cultivo siguiente.",
+    "rasgos": [
+      "Fruto en vaina que se abre por dos costuras",
+      "Flores amariposadas (estandarte, alas y quilla)",
+      "Hojas compuestas, muchas veces con zarcillos o folíolos",
+      "Raíces con nódulos que fijan nitrógeno",
+      "Semillas ricas en proteínas"
+    ],
+    "rotacion": "leguminosas",
+    "cuidado": "Aportan nitrógeno: no las fertilices con nitrógeno, y dejá las raíces en el suelo al cosechar. Los pulgones negros (haba), las babosas y el gorgojo de la semilla son lo típico. Prefieren suelo suelto y bien drenado; el encharcamiento las pudre. Son ideales antes de cultivos exigentes como repollo, zapallo o tomate."
+  },
+  {
+    "id": "poaceas",
+    "nombre": "Poáceas (Gramíneas)",
+    "cientifico": "Poaceae",
+    "emoji": "🌽",
+    "descripcion": "Maíz, trigo, avena, centeno y los pastos. Es la familia que alimenta al mundo. En la huerta se usan sobre todo el choclo y los cereales de abono verde, que dejan mucha materia orgánica y raíces que descompactan.",
+    "rasgos": [
+      "Hojas largas y angostas con nervaduras paralelas",
+      "Tallos cilíndricos con nudos (cañas)",
+      "Flores diminutas sin pétalos vistosos, reunidas en espigas o panojas",
+      "Raíces fibrosas que forman una cabellera densa",
+      "Polinización por viento: el maíz se siembra en bloques, no en una sola fila"
+    ],
+    "rotacion": "frutos",
+    "cuidado": "El maíz es voraz de nitrógeno: sembralo después de leguminosas o con abundante compost. Lo atacan el gusano cogollero y el barrenador; revisá los cogollos. Los cereales de invierno (avena, centeno) son excelentes abonos verdes para cerrar la rotación y controlar yuyos."
+  },
+  {
+    "id": "amarantaceas",
+    "nombre": "Amarantáceas (y quenopodiáceas)",
+    "cientifico": "Amaranthaceae",
+    "emoji": "🥬",
+    "descripcion": "Espinaca, acelga y remolacha, además del amaranto y la quinoa. Hoy la botánica unió a las antiguas quenopodiáceas con las amarantáceas. Son plantas de hoja o raíz, rústicas y agradecidas.",
+    "rasgos": [
+      "Hojas carnosas, a veces con polvillo o brillo en las plantas jóvenes",
+      "Flores diminutas verdosas en glomérulos, sin pétalos vistosos",
+      "Semillas en glomérulos: cada 'semilla' de acelga o remolacha trae varias",
+      "Contienen oxalatos, de ahí su sabor ligeramente ácido",
+      "Toleran suelos algo salinos"
+    ],
+    "rotacion": "hojas",
+    "cuidado": "El minador de la hoja (galerías blancas) y los pulgones son los visitantes habituales; sacá y destruí hojas afectadas. La acelga y la remolacha aguantan bien el calor, la espinaca espiga rápido con días largos. Raleá las plantitas porque salen varias juntas por glomérulo. No las repitas en el mismo lugar durante 3 años."
+  },
+  {
+    "id": "lamiaceas",
+    "nombre": "Lamiáceas (Labiadas)",
+    "cientifico": "Lamiaceae",
+    "emoji": "🌿",
+    "descripcion": "Albahaca, menta, orégano, tomillo, romero, salvia, lavanda y melisa. Son las aromáticas por excelencia, con aceites esenciales en glándulas de hojas y tallos que repelen plagas y atraen abejas.",
+    "rasgos": [
+      "Tallos cuadrados: si los rodás entre los dedos se notan las cuatro esquinas",
+      "Hojas opuestas, cruzadas de a pares",
+      "Flores en forma de labios (bilabiadas), que atraen abejas",
+      "Aroma intenso por aceites esenciales",
+      "Las mediterráneas (romero, tomillo, lavanda) aman el sol y el suelo pobre"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Casi no tienen plagas graves; el mayor riesgo es el exceso de agua, que pudre las mediterráneas. La menta y la melisa invaden: cultivalas en maceta. La albahaca (anual) es sensible al frío y a los hongos si se moja de noche; pinzá las flores para que rebrote. Podalas livianamente después de florecer."
+  },
+  {
+    "id": "rosaceas",
+    "nombre": "Rosáceas",
+    "cientifico": "Rosaceae",
+    "emoji": "🍎",
+    "descripcion": "Manzano, peral, duraznero, ciruelo, cerezo, damasco, membrillo, frutilla, frambuesa, zarzamora y rosa. Es la gran familia de los frutales de clima templado, la mayoría con flores de cinco pétalos y frío invernal necesario.",
+    "rasgos": [
+      "Flores con cinco pétalos y muchos estambres, a menudo perfumadas",
+      "Hojas alternas con bordes aserrados y pequeñas estípulas en la base",
+      "Frutos muy variados: pepitas (manzana, pera), carozos (durazno, cereza), múltiples (frambuesa, frutilla)",
+      "Muchas necesitan horas de frío invernal para florecer",
+      "Frecuentes espinas en rosas y zarzas"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Comparten pulgones, carpocapsa, cochinillas, bacteriosis y moho gris; la poda de invierno y la limpieza de frutos momificados ayudan. No replantes un frutal de la familia en el hueco de otro (cansancio del suelo). Las heladas tardías en floración pueden perder la cosecha, elegí variedades de floración tardía si tu zona las tiene."
+  },
+  {
+    "id": "rutaceas",
+    "nombre": "Rutáceas (cítricos)",
+    "cientifico": "Rutaceae",
+    "emoji": "🍋",
+    "descripcion": "Limonero, naranjo y mandarino. Son árboles de hoja perenne con frutos ricos en vitamina C y flores de azahar perfumadas. Aman el sol y el calor y son sensibles a las heladas fuertes.",
+    "rasgos": [
+      "Hojas perennes, brillantes, con puntitos translúcidos de aceite",
+      "Flores blancas muy aromáticas (azahar)",
+      "Fruto tipo hesperidio: cáscara con glándulas de aceite y gajos jugosos",
+      "Ramas con espinas en muchas variedades",
+      "Aroma cítrico al frotar hojas o cáscara"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Odian el encharcamiento y las heladas severas; protegé los árboles jóvenes con tela o plástico en invierno frío. La cochinilla, el pulgón, el minador de los cítricos y la fumagina son los problemas comunes. Pedí fertilización con nitrógeno, hierro y zinc (hojas amarillas con nervios verdes indican clorosis)."
+  },
+  {
+    "id": "moraceas",
+    "nombre": "Moráceas",
+    "cientifico": "Moraceae",
+    "emoji": "🫒",
+    "descripcion": "La familia de la higuera y la mora. Son árboles caducifolios, vigorosos y muy rústicos, que sueltan un látex blanco al cortar una rama. La higuera es de las frutales más fáciles de cultivar.",
+    "rasgos": [
+      "Látex blanco en tallos, hojas y frutos verdes",
+      "Hojas alternas, grandes y a veces lobuladas (higuera)",
+      "Frutos múltiples o falsos frutos (higo: una inflorescencia carnosa)",
+      "Caducifolias, pierden la hoja en invierno",
+      "Raíces vigorosas que pueden levantar veredas"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Son rústicas y poco exigentes, pero las raíces de la higuera avanzan lejos: plantala a 5 metros o más de cañerías y paredes. Se podan con cuidado en invierno; el látex irrita la piel. Las heladas tardías pueden quemar brotes tiernos y las moscas de la fruta atacan los higos maduros."
+  },
+  {
+    "id": "vitaceas",
+    "nombre": "Vitáceas",
+    "cientifico": "Vitaceae",
+    "emoji": "🍇",
+    "descripcion": "La familia de la vid o parra. Son trepadoras leñosas con zarcillos, que necesitan sol, buen drenaje y una poda anual bien hecha para dar uva.",
+    "rasgos": [
+      "Tallos leñosos trepadores con zarcillos opuestos a las hojas",
+      "Hojas alternas, lobuladas en forma de palma",
+      "Racimos de flores muy pequeñas que dan bayas",
+      "Corteza que se desprende en tiras",
+      "Pierden las hojas en invierno"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "El oídio y el mildiu son enemigos frecuentes, sobre todo en veranos húmedos; una parra en espaldera o parral soleado y aireado los reduce. Poda en reposo invernal, dejando pocos brotes con yemas. Pedí poco nitrógeno y riego profundo y espaciado."
+  },
+  {
+    "id": "oleaceas",
+    "nombre": "Oleáceas",
+    "cientifico": "Oleaceae",
+    "emoji": "🫒",
+    "descripcion": "El olivo, el jazmín y el fresno. El olivo es un árbol longevo de clima mediterráneo, muy resistente a la sequía y de crecimiento lento, ideal para sol pleno y suelos pobres.",
+    "rasgos": [
+      "Hojas opuestas, en el olivo grises y coriáceas por debajo",
+      "Flores pequeñas, a menudo perfumadas (jazmín)",
+      "Frutos tipo drupa con carozo (aceituna)",
+      "Árboles y arbustos longevos",
+      "Gran tolerancia a la sequía y al suelo pobre"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "El olivo necesita sol, buen drenaje y un invierno fresco para florecer; no soporta suelos anegados. Sufre cochinillas (tizne o negrilla), la mosca del olivo y el repilo en otoños húmedos. Muchos olivos necesitan un segundo ejemplar compatible cerca para polinizarse mejor."
+  },
+  {
+    "id": "juglandaceas",
+    "nombre": "Juglandáceas",
+    "cientifico": "Juglandaceae",
+    "emoji": "🌰",
+    "descripcion": "La familia del nogal. Son árboles grandes y longevos que dan nueces, de hojas compuestas y madera valiosa. Liberan juglona, una sustancia que frena el crecimiento de varias plantas cercanas.",
+    "rasgos": [
+      "Hojas grandes compuestas, con varios folíolos y olor aromático",
+      "Flores masculinas en amentos colgantes",
+      "Fruto tipo nuez con cáscara verde que mancha las manos",
+      "Árboles de gran porte y copa amplia",
+      "Pérdida de hojas en invierno"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Necesitan mucho espacio (8 a 10 metros) y suelo profundo; tardan 6 a 10 años en producir desde plantín. La juglona de raíces y hojas perjudica a tomate, papa, pimiento y otras plantas: no plantes la huerta bajo su copa. Cuidá del gusano de la nuez (carpocapsa) y la bacteriosis."
+  },
+  {
+    "id": "ericaceas",
+    "nombre": "Ericáceas",
+    "cientifico": "Ericaceae",
+    "emoji": "🫐",
+    "descripcion": "Arándano, azalea y brezo. Son plantas de suelo ácido (pH 4,5 a 5,5), con raíces finas y poco profundas que dependen de hongos del suelo, por eso se cultivan mejor en sustrato especial o en maceta.",
+    "rasgos": [
+      "Flores en forma de campanita o farolito",
+      "Hojas pequeñas, a veces perennes y coriáceas",
+      "Raíces finas y superficiales, sin pelos radiculares",
+      "Exigen suelo ácido y con mucha materia orgánica",
+      "Frutos tipo baya (arándano)"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "El pH es lo que decide todo: con suelo neutro o alcalino las hojas se ponen rojizas o amarillas. Regá con agua de baja dureza (lluvia es ideal) y usá turba, corteza de pino y compost de hoja. Mantené el suelo húmedo pero drenado y cubierto con mulch de corteza o acículas."
+  },
+  {
+    "id": "convolvulaceas",
+    "nombre": "Convolvuláceas",
+    "cientifico": "Convolvulaceae",
+    "emoji": "🍠",
+    "descripcion": "La batata y las campanillas. Son trepadoras o rastreras de flores en forma de embudo; la batata forma raíces tuberosas comestibles y necesita calor y un suelo suelto.",
+    "rasgos": [
+      "Flores en forma de embudo o trompeta",
+      "Tallos volubles que se enroscan o se arrastran",
+      "Hojas alternas, a menudo con forma de corazón",
+      "Raíces tuberosas (batata)",
+      "Savia lechosa en algunas especies"
+    ],
+    "rotacion": "raices",
+    "cuidado": "La batata pide calor, suelo arenoso y poco nitrógeno para formar raíces y no solo follaje. Se multiplica por guías o esquejes. Las plagas importantes son el gusano de alambre y los gorgojos del suelo; rotá y cosechá a tiempo antes de las heladas."
+  },
+  {
+    "id": "boraginaceas",
+    "nombre": "Boragináceas",
+    "cientifico": "Boraginaceae",
+    "emoji": "💙",
+    "descripcion": "La borraja y la consuelda. Son hierbas peludas, de flores azules en forma de estrella muy visitadas por abejas, útiles como abono verde y como atrayentes de polinizadores.",
+    "rasgos": [
+      "Hojas y tallos cubiertos de pelos ásperos",
+      "Flores azules, violetas o rosadas, a menudo en cimas enroscadas como un caracol",
+      "Flores en forma de estrella con cinco pétalos",
+      "Raíces profundas que traen nutrientes (consuelda)",
+      "Fruto en cuatro nuececitas"
+    ],
+    "rotacion": "flores",
+    "cuidado": "La borraja se siembra directa y se resiembra sola; florece de primavera a verano. Raíz pivotante: no tolera trasplantes. Casi no tiene plagas y atrae abejas, sírfidos y mariquitas, por eso es de las mejores compañeras de tomate y frutilla."
+  },
+  {
+    "id": "tropaeolaceas",
+    "nombre": "Tropeoláceas",
+    "cientifico": "Tropaeolaceae",
+    "emoji": "🧡",
+    "descripcion": "La capuchina, una familia casi de una sola planta. Es comestible, trepadora y de flores naranjas y amarillas que funcionan como planta trampa para pulgones.",
+    "rasgos": [
+      "Hojas redondas en forma de escudo, con el pecíolo en el centro",
+      "Flores con espolón, naranjas, amarillas o rojas",
+      "Tallos rastreros o trepadores",
+      "Hojas y flores comestibles de sabor picante",
+      "Semillas grandes y rugosas, fáciles de sembrar"
+    ],
+    "rotacion": "flores",
+    "cuidado": "Florece más en suelos pobres: con exceso de nutrientes da pura hoja. Atrae pulgones y orugas, lo que protege a repollos y tomates al ser su 'trampa'. Sembrala directa a 2 cm; no resiste heladas pero se resiembra sola."
+  },
+  {
+    "id": "lauraceas",
+    "nombre": "Lauráceas",
+    "cientifico": "Lauraceae",
+    "emoji": "🍃",
+    "descripcion": "El laurel y el palto. Son árboles o arbustos perennes con hojas aromáticas, de crecimiento lento y buena longevidad. El laurel es de las aromáticas leñosas más fáciles y duraderas.",
+    "rasgos": [
+      "Hojas perennes, coriáceas y aromáticas al frotarlas",
+      "Flores pequeñas verdoso-amarillentas",
+      "Frutos tipo baya o drupa",
+      "Árboles o arbustos de crecimiento lento",
+      "Aceites esenciales en toda la planta"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "El laurel prefiere sol a media sombra, suelo drenado y riego moderado; tolera poda de formación. Puede sufrir cochinillas. Los ejemplares jóvenes necesitan abrigo en heladas fuertes. Como es de crecimiento lento, elegí bien el lugar definitivo."
+  },
+  {
+    "id": "litraceas",
+    "nombre": "Litráceas",
+    "cientifico": "Lythraceae",
+    "emoji": "🔴",
+    "descripcion": "El granado, un arbusto o arbolito de frutos rojos llenos de granos jugosos. Resiste muy bien la sequía y el calor, y lo mejor es plantarlo en pleno sol.",
+    "rasgos": [
+      "Flores rojas o anaranjadas de aspecto papel de seda",
+      "Fruto globoso con corona y muchos arilos jugosos",
+      "Hojas brillantes y opuestas",
+      "Arbusto caducifolio de tronco irregular",
+      "Muy resistente a la sequía"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Necesita sol pleno y calor para madurar bien el fruto. El riego irregular tras sequía provoca rajado de los granados. Pueden afectarlo la mosca de la fruta y los pulgones. Podá en invierno quitando ramas cruzadas y chupones."
+  },
+  {
+    "id": "bignoniaceas",
+    "nombre": "Bignoniáceas",
+    "cientifico": "Bignoniaceae",
+    "emoji": "💜",
+    "descripcion": "El jacarandá y otros árboles y trepadoras de flores tubulares vistosas. El jacarandá cubre las calles de violeta en primavera y da buena sombra, aunque ensucia con sus flores y vainas.",
+    "rasgos": [
+      "Flores tubulares o acampanadas, de colores vistosos",
+      "Hojas compuestas, opuestas",
+      "Fruto en cápsula con semillas aladas",
+      "Árboles de copa amplia y ornamental",
+      "Florecen en primavera o verano"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Necesitan sol y lugar amplio; el jacarandá pierde hojas y puede tardar años en florecer desde semilla. Es sensible a heladas fuertes cuando es joven. Evitá plantarlo cerca de cañerías por las raíces extendidas. Plagas importantes son poco comunes."
+  },
+  {
+    "id": "malvaceas",
+    "nombre": "Malváceas",
+    "cientifico": "Malvaceae",
+    "emoji": "🌺",
+    "descripcion": "El tilo, la malva, el hibisco y el algodón. Familia de flores con muchos estambres soldados en columna, y de árboles de sombra y aroma como el tilo.",
+    "rasgos": [
+      "Flores con estambres soldados formando una columna central",
+      "Cinco pétalos y cinco sépalos, a menudo con calículo",
+      "Hojas alternas, lobuladas o acorazonadas",
+      "Contienen mucílagos (la savia es gelatinosa)",
+      "Pelos estrellados en hojas y tallos"
+    ],
+    "rotacion": "flores",
+    "cuidado": "El tilo es un árbol de sombra de crecimiento lento que ama el sol y el suelo profundo; los pulgones lo llenan de melaza pegajosa en verano. Las malváceas herbáceas son rústicas y vistosas, pero el ataque de roya de la malva puede aparecer con humedad. Regá a pie, sin mojar el follaje."
+  },
+  {
+    "id": "violaceas",
+    "nombre": "Violáceas",
+    "cientifico": "Violaceae",
+    "emoji": "💐",
+    "descripcion": "Pensamientos y violetas. Son flores pequeñas y amigables, de clima fresco y media sombra, que dan color en invierno y se pueden comer en ensaladas y postres.",
+    "rasgos": [
+      "Flores con cinco pétalos desiguales y un espolón",
+      "Muchas con manchas o 'caritas' características (pensamientos)",
+      "Plantas bajas, en roseta o rastreras",
+      "Hojas acorazonadas o redondeadas",
+      "Prefieren clima fresco, florecen de otoño a primavera"
+    ],
+    "rotacion": "flores",
+    "cuidado": "No resisten el calor fuerte: sembralas en otoño o fin de verano. El pensamiento necesita sol suave y riego frecuente; las babosas y los pulgones son los visitantes habituales. Despuntá flores marchitas para que florezcan más tiempo."
+  },
+  {
+    "id": "geraniaceas",
+    "nombre": "Geraniáceas",
+    "cientifico": "Geraniaceae",
+    "emoji": "🌸",
+    "descripcion": "El malvón (Pelargonium) y los geranios verdaderos. Plantas rústicas de flores alegres, ideales en maceta y balcón, con hojas aromáticas que ayudan a espantar algunos insectos.",
+    "rasgos": [
+      "Hojas con bordes redondeados o lobulados, a menudo aterciopeladas",
+      "Aroma característico al frotar las hojas",
+      "Flores reunidas en umbelas, de cinco pétalos",
+      "Fruto alargado en forma de pico de cigüeña",
+      "Tallos algo carnosos que aguantan la sequía"
+    ],
+    "rotacion": "flores",
+    "cuidado": "Odian el exceso de agua y el frío intenso: regá solo cuando el sustrato esté seco unos 2 cm y protegelos de heladas. Pueden tener royas y cochinillas. Se multiplican fácil por esqueje en primavera y otoño."
+  },
+  {
+    "id": "ebenaceas",
+    "nombre": "Ebenáceas",
+    "cientifico": "Ebenaceae",
+    "emoji": "🟠",
+    "descripcion": "El caqui, un árbol caducifolio de frutos anaranjados que maduran en otoño cuando ya cayeron las hojas. Es rústico, de pocas plagas y de gran valor ornamental.",
+    "rasgos": [
+      "Frutos grandes anaranjados, tipo baya, con cáliz persistente",
+      "Hojas alternas, grandes y brillantes, de color rojizo en otoño",
+      "Árbol caducifolio de copa redondeada",
+      "Madera oscura y dura (el ébano es de esta familia)",
+      "Flores pequeñas cremosas, poco vistosas"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Es poco exigente y casi sin plagas. Algunas variedades son astringentes y se comen solo cuando están blandas. Prefiere sol y suelo profundo; las heladas tardías pueden dañar las flores. Raleá frutos en años de mucha carga para evitar vecería."
+  },
+  {
+    "id": "asparagaceas",
+    "nombre": "Asparagáceas",
+    "cientifico": "Asparagaceae",
+    "emoji": "🌱",
+    "descripcion": "El espárrago, una perenne que se cosecha como brote tierno. La planta forma una corona subterránea que produce durante 10 a 15 años, pero requiere paciencia: el primer cultivo es recién al segundo o tercer año.",
+    "rasgos": [
+      "Brotes tiernos (turiones) que emergen del suelo en primavera",
+      "Follaje fino y plumoso en verano",
+      "Corona de raíces carnosas bajo tierra",
+      "Plantas masculinas y femeninas separadas, con bayas rojas en las hembras",
+      "Perenne herbácea que desaparece en invierno"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "Preparar un buen cantero profundo, drenado y con compost antes de plantar. No cosechar en el primer año para que la corona se fortalezca. La roya y el escarabajo del espárrago son sus problemas. Los yuyos le compiten mucho: usá mulch grueso."
+  },
+  {
+    "id": "verbenaceas",
+    "nombre": "Verbenáceas",
+    "cientifico": "Verbenaceae",
+    "emoji": "🍵",
+    "descripcion": "La hierba luisa, la verbena y la lantana. Son arbustos y hierbas aromáticas de flores pequeñas agrupadas, muy visitadas por mariposas. La hierba luisa se usa para infusiones de aroma cítrico.",
+    "rasgos": [
+      "Tallos con frecuencia cuadrangulares",
+      "Hojas opuestas o en verticilos, aromáticas",
+      "Flores pequeñas en espigas o cabezuelas",
+      "Aroma cítrico intenso en la hierba luisa",
+      "Atraen mariposas y abejas"
+    ],
+    "rotacion": "perennes",
+    "cuidado": "La hierba luisa pierde las hojas con heladas y rebrota en primavera; podala a mitad de altura a la salida del invierno. Le gusta el sol y un riego moderado. Casi no tiene plagas. Protegé la base con mulch en zonas frías."
+  }
+]
